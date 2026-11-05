@@ -23,7 +23,6 @@
 |---|---|---|
 | [Bolivian Sign Language LSTM](https://github.com/Kuatacho/Modelo-LSTM-Senias-Boliviana) | Real-time Bolivian Sign Language gesture recognition using an LSTM neural network | Python · TensorFlow · MediaPipe · OpenCV |
 | [CleanCart.NET](https://github.com/Kuatacho/CleanCart.NET) | Shopping cart sample following Clean Architecture, with unit tests for the application layer | C# · .NET |
-| [FlaskApiRest](https://github.com/Kuatacho/FlaskApiRest) | REST API backed by a PostgreSQL database | Python · Flask · PostgreSQL |
 
 ## 📫 Let's Connect
 
